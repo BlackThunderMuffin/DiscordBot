@@ -28,7 +28,7 @@ namespace DiscordBotInput
 
 		void TimerSayG()                                                                    //Timer zum sagen von "Equip gem ...."
 		{
-			TimerG = new Timer
+			TimerG = new Timer																//kommentar 
 			{
 				Interval = 500                                                              //Interval auf 5000 setzen+++++++++++++++++++++++++
 			};
